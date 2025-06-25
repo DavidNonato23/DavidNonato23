@@ -25,7 +25,7 @@
 🔐 **Certificados Concluídos & Em Andamento:**
 
 * **Certificado de Segurança Cibernética do Google** (em andamento)
-* **Cisco Introdução à Cibersegurança** | [Ver Credencial](https://www.credly.com/badges/b8b435cb-6d3e-45e4-b8b3-ee7cb93e50a4/public_url)
+* **Cisco Introdução à Cibersegurança** | [Ver Credencial](https://davidnonato23.github.io/perfil/)
 * **Linux Essentials** - Dia a dia
 * **Hacking Ético** - Udemy
 
