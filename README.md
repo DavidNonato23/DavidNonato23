@@ -31,7 +31,7 @@ Estou em uma jornada contínua de aprendizado e aprimoramento. Aqui estão algun
     * Proteção de Software e Segurança de Inteligência Artificial (SantanderX). 🧠🛡️
 
 * **Meus Projetos**: Embora este perfil não seja um repositório de projeto, você pode explorar meus trabalhos e estudos de caso mais detalhados no meu repositório dedicado ao Portfólio:
-    * [**Acesse meu Portfólio de Projetos no GitHub**](https://github.com/SeuUsuario/NomeDoSeuRepositorioDePortfolio) 📁✨
+    * [**Acesse meu Portfólio de Projetos no GitHub**](https://davidnonato23.github.io/perfil/) 📁✨
     * Confira também meu [Guia de Estudo](https://github.com/SeuUsuario/NomeDoSeuRepositorioDeEstudos) com anotações e recursos. 📘
 
 ---
