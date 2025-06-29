@@ -40,9 +40,9 @@ Estou em uma jornada contínua de aprendizado e aprimoramento. Aqui estão algun
 
 Estou sempre aberto(a) a novas conexões, discussões sobre cibersegurança e oportunidades. Sinta-se à vontade para me contatar!
 
-* **LinkedIn**: [Seu Link do LinkedIn aqui] (ex: `https://www.linkedin.com/in/david-nonato-49913032b`) 💼
-* **Email**: [Seu Email aqui] (ex: `mailto:davidnonato2022@outlook.com`) 📧
-* **Twitter/X (Opcional)**: [@SeuHandle] 🐦
+Meu LinkedIn : https://www.linkedin.com/in/david-nonato-49913032b`) 💼
+Email: davidnonato2022@outlook.com`) 📧
+
 
 ---
 
