@@ -18,7 +18,7 @@ Estou em uma jornada contínua de aprendizado e aprimoramento. Aqui estão algun
 * **Fundamentos de Linux e SIEM**: Fortalecendo minhas habilidades em sistemas operacionais e ferramentas de monitoramento de segurança. 🐧📊
 * **Preparação para AWS Certified Cloud Practitioner**: Expandindo meus conhecimentos em segurança na nuvem. ☁️
 * **Estudos em Python**: Aprimorando minhas habilidades de programação para automação e análise de segurança. 🐍
-* Santander Bootcamp de Cibersegurança (DIO) | [Ver Curso](https://digitalinnovation.one/courses/santander-bootcamp-ciberseguranca)
+* Santander Bootcamp de Cibersegurança (DIO) |
 * * Docker Essentials (DIO), DevOps Essentials (DIO), Kubernetes para Desenvolvedores (DIO). 🐳⚙️☸️
 
 
