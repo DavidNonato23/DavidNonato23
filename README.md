@@ -18,6 +18,9 @@ Estou em uma jornada contínua de aprendizado e aprimoramento. Aqui estão algun
 * **Fundamentos de Linux e SIEM**: Fortalecendo minhas habilidades em sistemas operacionais e ferramentas de monitoramento de segurança. 🐧📊
 * **Preparação para AWS Certified Cloud Practitioner**: Expandindo meus conhecimentos em segurança na nuvem. ☁️
 * **Estudos em Python**: Aprimorando minhas habilidades de programação para automação e análise de segurança. 🐍
+* Santander Bootcamp de Cibersegurança (DIO) | [Ver Curso](https://digitalinnovation.one/courses/santander-bootcamp-ciberseguranca)
+* * Docker Essentials (DIO), DevOps Essentials (DIO), Kubernetes para Desenvolvedores (DIO). 🐳⚙️☸️
+
 
 ---
 
@@ -25,9 +28,6 @@ Estou em uma jornada contínua de aprendizado e aprimoramento. Aqui estão algun
 
 * **Certificados Concluídos e em Andamento**:
     * Cisco Introdução à Cibersegurança | [Ver Credencial](https://www.credly.com/badges/b8b435cb-6d3e-45e4-b8b3-ee7cb93e50a4/public_url) 🏅
-    * Microsoft Azure Avançado (DIO) | [Ver Certificado](https://hermes.dio.me/certificates/QRAGAKFI.pdf) 📄
-    * Santander Bootcamp de Cibersegurança (DIO) | [Ver Curso](https://digitalinnovation.one/courses/santander-bootcamp-ciberseguranca) | [Ver Certificado](https://hermes.dio.me/certificates/cover/OEVUWURW.jpg) 🏆
-    * Docker Essentials (DIO), DevOps Essentials (DIO), Kubernetes para Desenvolvedores (DIO). 🐳⚙️☸️
     * Proteção de Software e Segurança de Inteligência Artificial (SantanderX). 🧠🛡️
 
 * **Meus Projetos**: Embora este perfil não seja um repositório de projeto, você pode explorar meus trabalhos e estudos de caso mais detalhados no meu repositório dedicado ao Portfólio:
