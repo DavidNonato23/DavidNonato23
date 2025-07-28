@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>David Nonato - Projetos</title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Open+Sans:wght@300;400&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="main-header">
+        <button class="menu-toggle" aria-label="Abrir Menu">
+            <i class="fas fa-bars"></i>
+        </button>
+
+        <div class="header-content">
+            <img src="Fotos/unnamed.jpg" alt="Foto de Perfil" class="profile-pic-header">
+            <div>
+                <h1>Analista de Suporte TI | Analista de Segurança da Informação</h1>
+                <p class="tagline">David Nonato</p>
+            </div>
+        </div>
+        <div class="social-links">
+            <a href="https://github.com/DavidNonato23" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/david-nonato-49913032b/" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+        </div>
+    </header>
+
+    <div class="sidebar">
+        <button class="close-sidebar" aria-label="Fechar Menu">
+            <i class="fas fa-times"></i>
+        </button>
+        <nav class="sidebar-nav">
+            <ul>
+                <li><a href="index.html"><i class="fas fa-home"></i> Início</a></li>
+                <li><a href="habilidades.html"><i class="fas fa-code"></i> Habilidades</a></li>
+                <li><a href="projetos.html" class="active"><i class="fas fa-project-diagram"></i> Projetos</a></li>
+                <li><a href="index.html#certificacao-main"><i class="fas fa-certificate"></i> Certificações</a></li>
+                <li><a href="index.html#contato-main"><i class="fas fa-envelope"></i> Contato</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <div class="content-wrapper" id="main-content-area">
+        <main>
+            <section id="projetos-main" class="section-content">
+                <h2><i class="fas fa-project-diagram"></i> Meus Projetos</h2>
+
+                <div class="categories">
+                    <button class="category-btn active" data-category="all">Todos</button>
+                    <button class="category-btn" data-category="python">Python</button>
+                    <button class="category-btn" data-category="network">Rede</button>
+                    </div>
+
+                <div class="project-grid">
+
+                    <div class="study-card" data-category="network">
+                        <div>
+                            <h4>Provedor internet</h4>
+                            <p>Detalhes a serem adicionados manualmente.</p>
+                            <ul>
+                                <li><strong>Tecnologias:</strong> HTML, CSS, JavaScript, PHP, MySQL.</li>
+                                <li><strong>Status:</strong> Concluído.</li>
+                            </ul>
+                        </div>
+                        <button class="details-button" data-target="projeto-provedor">Ver Detalhes</button>
+                        <div id="projeto-provedor-detalhes" class="detalhes-ocultos">
+                            <ul>
+                                <li><strong>Tópicos Abordados:</strong> Gestão de clientes, planos, pagamentos e status de rede em tempo real.</li>
+                                <li><strong>Link do Repositório:</strong> <a href="#" target="_blank">A ser preenchido.</a></li>
+                                <li><strong>Link Demo:</strong> <a href="#" target="_blank">A ser preenchido.</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="study-card" data-category="network">
+                        <div>
+                            <h4>Dashboard de Monitoramento com Grafana</h4>
+                            <p>Detalhes a serem adicionados manualmente.</p>
+                            <ul>
+                                <li><strong>Tecnologias:</strong> Grafana, Prometheus, Node Exporter, MySQL.</li>
+                                <li><strong>Status:</strong> Em Andamento.</li>
+                            </ul>
+                        </div>
+                        <button class="details-button" data-target="projeto-grafana">Ver Detalhes</button>
+                        <div id="projeto-grafana-detalhes" class="detalhes-ocultos">
+                            <ul>
+                                <li><strong>Tópicos Abordados:</strong> Monitoramento de infraestrutura, visualização de métricas de desempenho.</li>
+                                <li><strong>Link do Repositório:</strong> <a href="#" target="_blank">A ser preenchido.</a></li>
+                                <li><strong>Link Demo:</strong> <a href="#" target="_blank">A ser preenchido.</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="study-card" data-category="python">
+                        <div>
+                            <h4>Ferramenta de Automação de Tarefas com Python</h4>
+                            <p>Detalhes a serem adicionados manualmente.</p>
+                            <ul>
+                                <li><strong>Tecnologias:</strong> Python.</li>
+                                <li><strong>Status:</strong> Em Andamento.</li>
+                            </ul>
+                        </div>
+                        <button class="details-button" data-target="projeto-automacao-python">Ver Detalhes</button>
+                        <div id="projeto-automacao-python-detalhes" class="detalhes-ocultos">
+                            <ul>
+                                <li><strong>Tópicos Abordados:</strong> Automação de tarefas de TI (ex: backups, relatórios).</li>
+                                <li><strong>Link do Repositório:</strong> <a href="#" target="_blank">A ser preenchido.</a></li>
+                                <li><strong>Link Demo:</strong> <a href="#" target="_blank">A ser preenchido.</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="study-card" data-category="network">
+                        <div>
+                            <h4>Monitoramento de Rede e Logs</h4>
+                            <p>Detalhes a serem adicionados manualmente.</p>
+                            <ul>
+                                <li><strong>Tecnologias:</strong> A ser preenchido.</li>
+                                <li><strong>Status:</strong> A ser preenchido.</li>
+                            </ul>
+                        </div>
+                        <button class="details-button" data-target="projeto-monitoramento-rede-logs">Ver Detalhes</button>
+                        <div id="projeto-monitoramento-rede-logs-detalhes" class="detalhes-ocultos">
+                            <ul>
+                                <li><strong>Tópicos Abordados:</strong> A ser preenchido.</li>
+                                <li><strong>Link do Repositório:</strong> <a href="#" target="_blank">A ser preenchido.</a></li>
+                                <li><strong>Link Demo:</strong> <a href="#" target="_blank">A ser preenchido.</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+
+        </main>
+
+        <footer>
+            <p>&copy; 2025 David Nonato. Todos os direitos reservados.</p>
+            <p>Desenvolvido com <i class="fas fa-heart" style="color: var(--primary-color);"></i> e código.</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

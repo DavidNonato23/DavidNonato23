@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>David Nonato - Projetos em Monitoramento de Sistemas</title>
+    <link rel="stylesheet" href="../style.css"> 
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Open+Sans:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <img src="../Fotos/unnamed.jpg" alt="Foto de Perfil de David Nonato" class="profile-pic"> 
+            <h1>David Nonato</h1>
+            <p class="tagline">Projetos em Monitoramento de Sistemas</p>
+            <div class="social-links">
+                <a href="../CV/Currículo David Nonato.pdf" download aria-label="Baixar Currículo"><i class="fas fa-download"></i></a> 
+                <a href="https://github.com/DavidNonato23" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/david-nonato-49913032b/" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+            </div>
+        </div>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="../index.html#sobre">Sobre Mim</a></li> 
+            <li><a href="../index.html#habilidades">Habilidades</a></li>
+            <li><a href="../index.html#certificacoes">Certificações e Cursos</a></li>
+            <li><a href="../index.html#projetos">Projetos Gerais</a></li> 
+            <li><a href="../index.html#contato">Contato</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="projetos-monitoramento" class="section-content fade-in">
+            <h2>Projetos em Monitoramento de Sistemas e Cibersegurança</h2>
+            <p>O monitoramento proativo é uma habilidade essencial na cibersegurança, permitindo a detecção precoce de anomalias e incidentes. Aqui, demonstro minha capacidade de implementar soluções que garantem a visibilidade e a saúde dos ambientes de TI, fundamental para equipes de Blue Team e SOC.</p>
+
+            <h3>📡 Monitoramento de Rede e Serviços</h3>
+            <div class="project-card interactive-card">
+                <h3>Monitoramento de Conectividade de Serviços (Python)</h3>
+                <p>Este projeto foca na criação de um sistema robusto para **monitorar a disponibilidade e performance de serviços de TI**, utilizando ferramentas específicas para detecção proativa de problemas e geração de alertas eficazes. Inclui a criação de templates e scripts de automação para coleta de dados, visando a resiliência e a segurança da rede.</p>
+                <ul>
+                    <li>**Tecnologias:** **Python, Módulo Socket (para rede), Módulo CSV (para logs), Automação de Script**</li>
+                    <li>**Link:** <a href="https://github.com/DavidNonato23/Monitoramento-de-rede-logs/tree/DavidNonato23/Aulas" target="_blank">Ver no GitHub <i class="fas fa-external-link-alt"></i></a></li>
+                </ul>
+                <button class="details-button" onclick="mostrarDetalhes('projeto1-monitoramento-rede')">Ver Detalhes</button>
+                <div id="projeto1-monitoramento-rede-detalhes" class="detalhes-ocultos">
+                    <p>**Detalhes:** Este projeto envolveu o desenvolvimento de um script em **Python** que realiza checagens periódicas de conectividade de serviços críticos. Ele utiliza o **módulo `socket`** para testar a acessibilidade de hosts e portas específicas (como Google DNS e GitHub), registrando o status (UP/DOWN) juntamente com a data e hora. Os logs são persistidos em um arquivo **CSV** através do **módulo `csv`**, criando um histórico detalhado do desempenho e ajudando na análise forense básica e na identificação de padrões de comportamento maliciosos. A automação deste script permite um monitoramento contínuo e a rápida identificação de indisponibilidades ou comportamentos incomuns que possam indicar um problema de segurança.</p>
+                </div>
+            </div>
+            
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 David Nonato. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="../script.js"></script> 
+</body>
+</html>
